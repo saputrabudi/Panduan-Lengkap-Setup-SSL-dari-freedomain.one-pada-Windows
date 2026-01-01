@@ -514,6 +514,7 @@ openssl s_client -connect yourdomain.com:443
 
 **Selamat! SSL certificate sudah dikonfigurasi untuk XAMPP! 🎉**
 
-** By Saputra Budi**
+By Saputra Budi
+
 
 
