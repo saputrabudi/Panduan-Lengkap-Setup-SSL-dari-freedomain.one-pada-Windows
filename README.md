@@ -473,22 +473,6 @@ SSL certificate dari freedomain.one valid selama **90 hari** dan bisa diperpanja
 
 ---
 
-## ✅ Script Otomatis
-
-Untuk memudahkan, Anda bisa menggunakan script PowerShell yang sudah dibuat:
-
-1. **Setup SSL XAMPP:**
-   ```powershell
-   .\setup-ssl-xampp.ps1 -XamppPath "C:\xampp" -Domain "yourdomain.com"
-   ```
-
-2. **Import Certificate:**
-   ```powershell
-   .\import-cert-simple.ps1 -PfxFile "path\to\certificate.pfx"
-   ```
-
----
-
 ## 🎯 Quick Reference
 
 **File Penting:**
